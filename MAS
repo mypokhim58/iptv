@@ -560,7 +560,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="KOREAN" tvg-id="416.astro" tvg-logo="https://perfecttv.net/logo/tvnmovies.png",202 tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
